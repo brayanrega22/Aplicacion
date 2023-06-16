@@ -5,20 +5,9 @@
 	width:1440px;
 	height:1764px;
 	position:absolute;
-}.e6_7 { 
-	color:rgba(0, 0, 0, 1);
-	width:398px;
-	height:19px;
-	position:absolute;
-	left:365px;
-	top:790px;
-	font-family:Inter;
-	text-align:left;
-	font-size:24px;
-	letter-spacing:0;
 }.e17_3 { 
 	width:751px;
-	height:888px;
+	height:866px;
 	position:absolute;
 	left:689px;
 	top:898px;
@@ -42,21 +31,10 @@
 	transform: rotate(-0.23781073360065996deg);
 	color:rgba(0, 0, 0, 1);
 	width:221.03257751464844px;
-	height:11.811019897460938px;
+	height:41.0688591003418px;
 	position:absolute;
-	left:100px;
-	top:792.9174194335938px;
-	font-family:Inter;
-	text-align:left;
-	font-size:24px;
-	letter-spacing:0;
-}.e6_8 { 
-	color:rgba(0, 0, 0, 1);
-	width:427px;
-	height:16px;
-	position:absolute;
-	left:1125px;
-	top:792px;
+	left:233px;
+	top:746.9174194335938px;
 	font-family:Inter;
 	text-align:left;
 	font-size:24px;
@@ -71,17 +49,6 @@
 	font-family:Inter;
 	text-align:left;
 	font-size:36px;
-	letter-spacing:0;
-}.e6_10 { 
-	color:rgba(0, 0, 0, 1);
-	width:179px;
-	height:41px;
-	position:absolute;
-	left:742px;
-	top:792px;
-	font-family:Inter;
-	text-align:left;
-	font-size:24px;
 	letter-spacing:0;
 }.e9_17 { 
 	width:422px;
@@ -136,5 +103,41 @@
 	font-family:Inter;
 	text-align:left;
 	font-size:40px;
+	letter-spacing:0;
+}.e24_12 { 
+	transform: rotate(-0.23781073360065996deg);
+	color:rgba(0, 0, 0, 1);
+	width:221.03257751464844px;
+	height:31.79365348815918px;
+	position:absolute;
+	left:1143px;
+	top:744.9174194335938px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}.e24_13 { 
+	transform: rotate(-0.23781073360065996deg);
+	color:rgba(0, 0, 0, 1);
+	width:221.03257751464844px;
+	height:31.79365348815918px;
+	position:absolute;
+	left:807px;
+	top:744.9174194335938px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}.e24_14 { 
+	transform: rotate(-0.23781073360065996deg);
+	color:rgba(0, 0, 0, 1);
+	width:221.03257751464844px;
+	height:31.79365348815918px;
+	position:absolute;
+	left:429px;
+	top:745.9174194335938px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
 	letter-spacing:0;
 }
